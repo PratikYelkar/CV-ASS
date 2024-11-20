@@ -32,7 +32,7 @@ cd image-transformation-app
 
  streamlit run streamlit_app.py
 
-4. Open the app in your browser at http://localhost:8501.
+4. Open the app in your browser at (https://htjvaemunt8bx8ymxscqbt.streamlit.app/).
 
 Technologies Used
 1. Streamlit: For building the interactive web app.
